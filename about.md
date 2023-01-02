@@ -1,13 +1,17 @@
 ---
 layout: basic
 title: "About Us"
-date: 2018-11-28T15:15:34+10:00
+# date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+# description: "Business plan hackathon handshake responsive web design."
 image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
 ---
 
-# Creating Modern Websites
+Short info about me
+
+- Sample Text
+
+<!-- # Creating Modern Websites
 
 Web design encompasses many different skills and disciplines in the production and maintenance of websites.
 
@@ -38,4 +42,4 @@ There are two primary jobs involved in creating a website: the web designer and 
 - Programming and coding
 
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another. -->

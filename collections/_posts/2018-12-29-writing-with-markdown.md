@@ -2,7 +2,8 @@
 layout: post
 title: "Writing With Markdown"
 date: 2018-12-29T10:26:40+10:00
-authors: ["Sage Kirk", "Mike Vance"]
+# authors: ["Sage Kirk", "Mike Vance"]
+authors: ["Orcun Oruc"]
 categories: ["Development", "Javascript", "Web Design"]
 tags: ["Writing"]
 description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
@@ -10,8 +11,10 @@ thumbnail: "assets/images/unsplash-CTivHyiTbFw-640x360.jpeg"
 image: "https://source.unsplash.com/CTivHyiTbFw/1600x900"
 ---
 
-Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+<!-- Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+ -->
 
+ Sample Text for intro hyperledger fabric programming
 ## History
 
 John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format". Its key design goal is readability. That the language be readable as-is.
@@ -48,16 +51,19 @@ In 2017, GitHub released a formal specification of their GitHub Flavored Markdow
 
 ![unsplash](https://source.unsplash.com/3igFnx0L2pY/640x360)
 
+
 ### Markdown Extra
 
-Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.
+<!-- Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal. -->
 
 Markdown Extra adds the following features to Markdown:
 
-- markdown markup inside HTML blocks
-- elements with id/class attribute
-- "fenced code blocks" that span multiple lines of code
-- tables
-- definition lists
-- footnotes
-- abbreviations
+Sample text for the website
+
+- Sample 1
+- Sample 2
+- Sample 3
+- Sample 4
+- Sample 5
+- Sample 6
+- Sample 7
