@@ -1,12 +1,11 @@
 ---
-title: "Hosting Your Static Site"
-date: 2018-12-29T10:24:47+10:00
+title: "Solidity Programming"
+date: 2018-12-20T09:49:03+10:00
 layout: post
-authors: ["Sage Kirk", "Mike Young"]
-categories: ["Hosting", "Development"]
-description: "Hosting your website as a static site will improve performance and improve security."
-thumbnail: "https://source.unsplash.com/y3PdLg_zSDs/640x360"
-image: "https://source.unsplash.com/y3PdLg_zSDs/1600x900"
+categories: ["Branding"]
+description: Branding is an intrinsic part of your companies success, learn why your brand matters.
+thumbnail: "https://source.unsplash.com/YmQ0-nmWcV0/640x360"
+image: "https://source.unsplash.com/YmQ0-nmWcV0/1600x900"
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.

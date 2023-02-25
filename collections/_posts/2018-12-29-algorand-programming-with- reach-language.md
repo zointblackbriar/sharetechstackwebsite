@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Styling CSS"
+title: "Algorand Programming with Reach Language"
 date: 2018-12-29T10:26:40+10:00
 authors: ["Mike Vance"]
 categories: ["Development", "Javascript"]

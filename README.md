@@ -1,3 +1,10 @@
+# Requirements
+
+> node version: v14.18.1
+> npm version: 6.14.15
+> nvm version: 0.39.2
+
+
 # Jekyll Atlantic - Jekyll + Tailwind Starter Theme
 
 Atlantic is a beutiful minimal blog theme for Jekyll. It is an excellent Jekyll + Tailwind boilerplate to start from.

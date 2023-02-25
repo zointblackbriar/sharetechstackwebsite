@@ -12,5 +12,8 @@
     "tailwindcss": "^2.2.4"
   },
   "author": "rob@zerostatic.io",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "postcss": "^8.4.21"
+  }
 }

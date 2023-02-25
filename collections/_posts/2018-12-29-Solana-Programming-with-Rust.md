@@ -1,12 +1,12 @@
 ---
-title: "Optimizing Your Website"
-date: 2018-12-20T09:38:03+10:00
+title: "Solana Programming with Rust Programming Language"
+date: 2018-12-29T10:24:47+10:00
 layout: post
-authors: ["Sage Kirk"]
-categories: ["Development", "Web Design"]
-description: "Making sure your website runs fast and loads quickly is a fundamental part of the web design and seo process."
-thumbnail: "https://source.unsplash.com/MS7KD9Ti7FQ/640x360"
-image: "https://source.unsplash.com/MS7KD9Ti7FQ/1600x900"
+authors: ["Sage Kirk", "Mike Young"]
+categories: ["Hosting", "Development"]
+description: "Hosting your website as a static site will improve performance and improve security."
+thumbnail: "https://source.unsplash.com/y3PdLg_zSDs/640x360"
+image: "https://source.unsplash.com/y3PdLg_zSDs/1600x900"
 ---
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
