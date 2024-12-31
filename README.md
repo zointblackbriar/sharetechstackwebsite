@@ -57,7 +57,7 @@ npm install
 ```
 
 ```
-bundle install
+sudo bundle install
 ``` 
 
 To start the Jekyll local development server.
