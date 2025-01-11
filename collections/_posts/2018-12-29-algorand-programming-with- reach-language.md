@@ -6,7 +6,7 @@ authors: ["Mike Vance"]
 categories: ["Development", "Javascript"]
 description: Learn how to use Markdown to write blog posts. Understand front-matter and how it is used in templates.
 thumbnail: "/assets/images/algorand-logo.png"
-image: "/assets/images/algorand-logo.png"
+# image: "/assets/images/algorand-logo.png"
 ---
 
 

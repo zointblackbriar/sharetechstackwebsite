@@ -1,12 +1,12 @@
 ---
 title: "Solana Programming"
-date: 2024-12-31T10:26:40+10:00
+date: 2025-01-01T10:26:40+10:00
 layout: post
 authors: ["Orcun Oruc", "authors-second"]
 categories: ["Solana", "Programming"]
 description: "Solana Application Development."
 thumbnail: "/assets/images/solana-image.png"
-image: "/assets/images/solana-image.png"
+# image: "/assets/images/solana-image.png"
 ---
 
 # Introduction to Solana Programming
