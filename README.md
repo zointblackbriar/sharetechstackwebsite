@@ -105,10 +105,6 @@ For example the site https://zerostaticthemes.github.io/jekyll-atlantic-theme wo
 - [Jekyll Curate](https://github.com/zerostaticthemes/jekyll-curate) - Premium
 - [Jekyll Origin](https://www.zerostatic.io/theme/jekyll-origin/) - Premium
 
-🇦🇺 **Made in Australia** by Robert Austin - Support our work - **Star this repo** ⭐
-
-<a href="https://www.buymeacoffee.com/zerostatic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 
 ### INFORMATION 
 
@@ -117,3 +113,19 @@ For example the site https://zerostaticthemes.github.io/jekyll-atlantic-theme wo
 > nvm version: 0.39.2
 
 > node version: v12.22.12
+
+> ruby version 2.7.1 (with rbenv global)
+
+Update gem the following version: 
+
+```bash
+gem install ffi -v 1.15.5
+```
+
+Then type the following command:
+
+```bash
+bundle install
+```
+
+
