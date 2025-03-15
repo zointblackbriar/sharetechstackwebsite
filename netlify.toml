@@ -7,3 +7,4 @@
   NPM_VERSION = "7"
   JEKYLL_ENV = "production"
   NODE_ENV = "production"
+  API_URL = "https://sharetechstack.netlify.app"
