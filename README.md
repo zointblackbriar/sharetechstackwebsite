@@ -36,6 +36,13 @@ Use Netlify to deploy this theme. This theme contains a valid and tested `netlif
 
 Netlify commands: 
 
+In order to test this, use the following: 
+
+```bash
+netlify dev
+```
+
+
 ```bash
 netlify deploy
 netlify deploy --prod

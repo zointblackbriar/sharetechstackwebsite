@@ -43,22 +43,22 @@ layout: base
         {{ content }}
       </div>
 
-      <!-- {% if page.tags.size > 0 %}
+      {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
           {% for tag in page.tags %}
             <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
           {% endfor %}
         </div>
-      {% endif %} -->
-      {% if page.tags.size > 0 %}
+      {% endif %}
+      <!-- {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
           {% for tag in page.tags %}
             <a href="{{ '/tags' | absolute_url }}#{{ tag | slugify }}">{{ tag }}</a>
           {% endfor %}
         </div>
-      {% endif %}
+      {% endif %} -->
 
       {% if page.after-content %}
         <div class="after-content">
@@ -72,7 +72,7 @@ layout: base
         {% include social-share.html %}
       {% endif %}
 
-      <!-- <ul class="pagination blog-pager">
+      <ul class="pagination blog-pager">
         {% if page.previous.url %}
         <li class="page-item previous">
           <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title | strip_html | xml_escape}}">
@@ -89,8 +89,8 @@ layout: base
           </a>
         </li>
         {% endif %}
-      </ul> -->
-      <ul class="pagination blog-pager">
+      </ul>
+      <!-- <ul class="pagination blog-pager">
         {% if page.previous.url %}
         <li class="page-item previous">
           <a class="page-link" href="{{ page.previous.url | absolute_url }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title | strip_html | xml_escape }}">
@@ -107,7 +107,7 @@ layout: base
           </a>
         </li>
         {% endif %}
-      </ul>
+      </ul> -->
       {% include comments.html %}
     </div>
   </div>
