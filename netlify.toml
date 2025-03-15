@@ -7,7 +7,7 @@
   NPM_VERSION = "7"
   JEKYLL_ENV = "production"
   NODE_ENV = "production"
-  API_URL = "https://sharetechstack.netlify.app"
+  API_URL = "http://sharetechstack.netlify.app"
 
 [dev]
   port = 8888 # Local dev server port when using `netlify dev`
