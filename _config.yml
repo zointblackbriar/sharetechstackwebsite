@@ -50,24 +50,24 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mountidablog@gmail.com"
+  # email: "example@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: orcunoruc
   github: zointblackbriar
   linkedin: orucorcun
-  # twitter: orcunoruc
-  # patreon: orcunoruc
-  # youtube: "@orcunoruc"
-  # whatsapp: orcunoruc
+  # twitter: sample
+  # patreon: sample
+  # youtube: "@sample"
+  # whatsapp: sample
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "3943160/sample"
+#  snapchat: sample
+#  instagram: sample
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +123123
+#  steam: sample
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
