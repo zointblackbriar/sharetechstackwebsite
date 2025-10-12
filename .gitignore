@@ -155,3 +155,28 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Ignore bundler config
+/.bundle
+
+# Ignore log files and temp files.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore system files
+.DS_Store
+*.swp
+*.swo
+
+# Ignore gems installed locally
+/vendor/bundle
+/vendor/cache
+
+# Ignore RubyMine project files
+.idea/
+
+# Ignore Gemfile.lock (optional, depends on team workflow)
+Gemfile.lock

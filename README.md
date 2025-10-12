@@ -14,17 +14,19 @@ npm install
 sudo bundle install
 ``` 
 
+To build the theme.
+ 
+```
+bundle exec jekyll build
+```
+
+
 To start the Jekyll local development server.
 
 ```
 bundle exec jekyll serve
 ``` 
 
-To build the theme.
- 
-```
-bundle exec jekyll build
-```
 
 ## Deployment
 
@@ -52,11 +54,37 @@ netlify deploy --prod
 
 > Requirement Notes 
 
-> nvm version: 0.39.2
+> node version: v18.19.1
 
-> node version: v12.22.12
+> ruby version 3.2.3
 
-> ruby version 2.7.1 (with rbenv global)
+> gem version 3.4.20
+
+Do the following steps: 
+
+Install gems only for your user (recommended)
+```bash
+bundle config set --local path '~/.gem'
+bundle install
+``` 
+
+This installs all gems into your home directory (~/.gem)
+
+No root permissions needed
+
+To make executables accessible, add this to your shell:
+
+```bash
+export PATH="$HOME/.gem/ruby/$(ruby -e 'print RUBY_VERSION[/\d+\.\d+/]')/bin:$PATH"
+``` 
+
+Reload your shell:
+
+```bash
+source ~/.bashrc
+```
+
+Now jekyll or other gem binaries will work without sudo.
 
 Update gem the following version: 
 
