@@ -60,6 +60,8 @@ netlify deploy --prod
 
 > gem version 3.4.20
 
+> OS version Ubuntu 24.04.3 LTS
+
 Do the following steps: 
 
 Install gems only for your user (recommended)
